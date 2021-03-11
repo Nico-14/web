@@ -39,7 +39,7 @@ const executeCommand = (cmd) => {
     case 'skills':
     case 'habilidades':
       addTerminalText(
-        'Desarrollo frontend con ReactJS, VueJS, vanilla JavaScript, JQuery y un poco de Angular\nDesarrollo backend con NodeJS. Puedo aprender/usar otros lenguajes y/o frameworks si es necesario, por ejemplo, Python, .NET, PHP.\nDesarrollo de aplicaciones de escritorio con ElectronJs, C# (Forms) y tecnologías similares a Electronjs, como NodeGUI.'
+        'Desarrollo frontend con ReactJS, VueJS, JavaScript, TypeScript, HTML, CSS y Angular\nDesarrollo backend con NodeJS. Puedo aprender/usar otros lenguajes y/o frameworks si es necesario, por ejemplo, Python, .NET, PHP.\nDesarrollo de aplicaciones de escritorio con ElectronJs, C# (Forms) y tecnologías similares a Electronjs, como NodeGUI.'
       );
       break;
     default:
